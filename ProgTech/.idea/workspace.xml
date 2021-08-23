@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="374f8a88-f229-4ad1-9c0e-eb02ba8f140b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y1OmtHEBbnRxRItAHv6ri8aelN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/progtech/l1ex5.java" />
+  </component>
+  <component name="RunManager" selected="Application.l1ex5">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="progtech.Main" />
+      <module name="ProgTech" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l1ex3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progtech.l1ex3" />
+      <module name="ProgTech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progtech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l1ex5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progtech.l1ex5" />
+      <module name="ProgTech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progtech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="l1ex5_dop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="progtech.l1ex5_dop" />
+      <module name="ProgTech" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="progtech.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.l1ex3" />
+      <item itemvalue="Application.l1ex5" />
+      <item itemvalue="Application.l1ex5_dop" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.l1ex5" />
+        <item itemvalue="Application.l1ex3" />
+        <item itemvalue="Application.l1ex5_dop" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="374f8a88-f229-4ad1-9c0e-eb02ba8f140b" name="Default Changelist" comment="" />
+      <created>1582106795870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582106795870</updated>
+      <workItem from="1582106797891" duration="782000" />
+      <workItem from="1582107669068" duration="42000" />
+      <workItem from="1582107733198" duration="1618000" />
+      <workItem from="1582384666392" duration="2546000" />
+      <workItem from="1582473219727" duration="86000" />
+      <workItem from="1582783275133" duration="1045000" />
+      <workItem from="1582784535781" duration="1285000" />
+      <workItem from="1582786343380" duration="478000" />
+      <workItem from="1582787407587" duration="1753000" />
+      <workItem from="1582793929859" duration="407000" />
+      <workItem from="1583312119016" duration="3766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#Live_Templates" timestamp="1582783964897">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="0" key="#Live_Templates/0.0.1440.900@0.0.1440.900" timestamp="1582783964897" />
+    <state x="0" y="23" key="#Live_Templates/0.23.1440.823@0.23.1440.823" timestamp="1582455160428" />
+    <state x="474" y="182" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1582783950014">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="474" y="182" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1440.900@0.0.1440.900" timestamp="1582783950014" />
+    <state x="474" y="189" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.23.1440.823@0.23.1440.823" timestamp="1582385521702" />
+    <state x="489" y="315" width="461" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582785448618">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="489" y="315" width="461" height="245" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.827@0.23.1440.827" timestamp="1582785448618" />
+    <state x="464" y="178" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582473255788">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="464" y="178" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1582473255788" />
+    <state x="100" y="123" width="1240" height="627" key="DiffContextDialog" timestamp="1582789016147">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="100" y="123" width="1240" height="627" key="DiffContextDialog/0.23.1440.827@0.23.1440.827" timestamp="1582789016147" />
+    <state x="100" y="123" width="1240" height="627" key="DiffContextDialog/0.23.1440.828@0.23.1440.828" timestamp="1582788879476" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1583319263222">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583319263222" />
+    <state width="1384" height="230" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1583312891389" />
+    <state width="875" height="230" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1583314593447" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1583319263221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583319263221" />
+    <state width="1384" height="230" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1583312891388" />
+    <state width="875" height="230" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1583314593446" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1583319263221">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583319263221" />
+    <state width="1384" height="230" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1583312891387" />
+    <state width="875" height="230" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1583314593445" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1583319263222">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="230" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583319263222" />
+    <state width="1384" height="230" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1583312891388" />
+    <state width="875" height="230" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1583314593446" />
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom" timestamp="1582786314565">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582785002134" />
+    <state width="1398" height="298" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1582786314565" />
+    <state width="1398" height="298" key="GridCell.Tab.1.center" timestamp="1582786314564">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582785002132" />
+    <state width="1398" height="298" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1582786314564" />
+    <state width="1398" height="298" key="GridCell.Tab.1.left" timestamp="1582786314564">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582785002131" />
+    <state width="1398" height="298" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1582786314564" />
+    <state width="1398" height="298" key="GridCell.Tab.1.right" timestamp="1582786314565">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="298" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582785002133" />
+    <state width="1398" height="298" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1582786314565" />
+    <state x="270" y="56" width="1024" height="827" key="SettingsEditor" timestamp="1582794017935">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="270" y="56" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582794017935" />
+    <state x="458" y="75" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1582455260758" />
+    <state x="137" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1582789146661" />
+    <state x="756" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1582787454332">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="756" y="268" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1582784536516" />
+    <state x="756" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1582787454332" />
+    <state x="451" y="196" key="extract.method.dialog" timestamp="1583312887044">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="451" y="196" key="extract.method.dialog/0.23.1440.827@0.23.1440.827" timestamp="1583312887044" />
+  </component>
+</project>

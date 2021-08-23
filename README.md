@@ -1,0 +1,1 @@
+This repo contains data associated with 3-rd year ITMO Programming Technologies course
